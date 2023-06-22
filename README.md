@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Champion108
 - 👀 I’m interested in anything about web development. 
-- 🌱 I’m currently learning php. 
+- 🌱 I’m currently React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
